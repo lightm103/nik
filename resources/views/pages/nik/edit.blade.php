@@ -5,7 +5,7 @@
     <div class="row">
         <div class="card">
             <div class="card-header">
-                <h5 class="card-title">Edit Data Kendaraan Dinas</h5>
+                <h5 class="card-title">Edit Data NIK</h5>
             </div>
             <div class="card-body">
                 <form action="{{ route('nik.update', $nik->id) }}" method="POST" id="editdata" enctype="multipart/form-data">

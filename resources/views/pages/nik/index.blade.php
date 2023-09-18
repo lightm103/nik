@@ -4,7 +4,7 @@
     <div class="container-fluid">
         <div class="card">
             <div class="card-header">
-                <h1 class="card-title">Data Kendaraan Dinas</h1>
+                <h1 class="card-title">Data NIK</h1>
                 <button type="button" class="btn btn-success float-end" data-bs-toggle="modal" data-bs-target="#exampleModal">
                     <i class="ti ti-md ti-square-plus me-1 fs-4"></i>Tambah Data
                 </button>
@@ -24,7 +24,7 @@
                         </div>
                     </form>
                 </div>
-                <h4 class="card-title mb-3">Data Kendaraan Dinas</h4>
+                <h4 class="card-title mb-3">Data NIK</h4>
                 <div class="table-responsive">
                     <table class="table table-bordered table-hover text-center">
                         <thead>
