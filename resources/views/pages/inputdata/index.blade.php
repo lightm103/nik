@@ -18,7 +18,7 @@
                             </div>
                         </form>
                     </div>
-                    <h4 class="card-title mb-3">Data Kendaraan Dinas</h4>
+                    <h4 class="card-title mb-3">Data NIK & TPS</h4>
                     <div class="table-responsive">
                         <table class="table table-bordered text-center">
                             <thead>

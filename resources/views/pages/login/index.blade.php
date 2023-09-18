@@ -17,7 +17,7 @@
                         @if ($errors->has('loginError'))
                             <div class="alert alert-danger">{{ $errors->first('loginError') }}</div>
                         @endif
-                        <form method="POST" action="{{ route('login') }}">
+                        <form method="POST" action="{{ route('login.post') }}">
                             @csrf
                             <div class="form-group">
                                 <label for="email">Email:</label>

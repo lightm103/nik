@@ -3,7 +3,7 @@
     <div>
         <div class="brand-logo d-flex align-items-center justify-content-between">
             <a href="{{ url('/')}}" class="text-nowrap logo-img">
-                <h1>SIMPAK</h1>
+                <h1>NIK</h1>
             </a>
             <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
                 <i class="ti ti-x fs-8"></i>
@@ -29,7 +29,7 @@
                   <div class="round-16 d-flex align-items-center justify-content-center">
                     <i class="ti ti-circle"></i>
                   </div>
-                  <span class="hiden-menu">Data Kendaraan Dinas</span>
+                  <span class="hiden-menu">Data NIK & TPS</span>
                 </a>
               </li>
           </nav>
